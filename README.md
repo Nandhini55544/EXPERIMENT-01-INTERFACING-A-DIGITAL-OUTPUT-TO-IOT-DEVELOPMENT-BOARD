@@ -178,10 +178,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
-LED ON:
+
+## LED ON:
+
 ![experiment1iot](https://github.com/user-attachments/assets/907f64b9-9918-40f3-80b8-c3e6b6bd3125)
 
-LED OFF:
+## LED OFF:
+
 ![experiment1iotoff](https://github.com/user-attachments/assets/223f5c60-10a9-4257-aaf6-d823e28814b2)
 
 
